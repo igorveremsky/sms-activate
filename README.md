@@ -1,4 +1,7 @@
 # SMS Activate API
+![npm](https://img.shields.io/npm/v/sms-activate)
+![npm](https://img.shields.io/npm/dy/sms-activate)
+[![CodeFactor](https://www.codefactor.io/repository/github/jsopn/sms-activate/badge)](https://www.codefactor.io/repository/github/jsopn/sms-activate)
 
 ## Installation
 NPM:

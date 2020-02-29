@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Library for sms-activate.ru API",
   "main": "lib/index.js",
-  "repository": "https://github.com/Jsopn/node-sms-activate",
+  "repository": "https://github.com/Jsopn/sms-activate",
   "author": "Evgeniy Jsop <evgeniy@jsop.ru>",
   "license": "MIT",
   "dependencies": {

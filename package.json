@@ -1,5 +1,5 @@
 {
-  "name": "node-sms-activate",
+  "name": "sms-activate",
   "version": "1.0.0",
   "description": "Library for sms-activate.ru API",
   "main": "lib/index.js",
